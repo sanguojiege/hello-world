@@ -6,5 +6,6 @@ public class Test {
     private ArrayList RankOpenList;
     public override void Decode(string package) {
         debug.log("ttt...");
+        ???
     }
 }
